@@ -16,6 +16,16 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://akilar.top/ -o akilar.top.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zhou251.top/ -o zhou251.top.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://fly.zhou251.top/ -o fly.zhou251.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.antmoe.com/ -o www.antmoe.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zfe.one/ -o zfe.one.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.lete114.top/ -o www.lete114.top.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://enfangzhong.github.io/ -o enfangzhong.github.io.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://cungudafa.top/ -o cungudafa.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://yafine-blog.cn/ -o yafine-blog.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.yansheng.xyz/ -o www.yansheng.xyz.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://bestzuo.cn/ -o bestzuo.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.zwying.com/ -o blog.zwying.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.itrhx.com/ -o www.itrhx.com.jpg
 
         curl https://purge.jsdelivr.net/gh/zhou251/ScreenShot@gh-pages/*.*
     - name: Deploy
